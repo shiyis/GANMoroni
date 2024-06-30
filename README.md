@@ -3,6 +3,8 @@
 According to the Prophet Joseph Smith from the LDS (or the Church of Jesus Christ of Later Day Saints), angel moroni was the guardian of the golden plates buried near his home in western New York, 
 which Latter Day Saints believe were the source of the Book of Mormon. An important figure in the theology of the Latter Day Saint movement, Moroni is featured prominently in its architecture and art.
 
+![moroni](https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG)
+
 ## The Project Incentive
 
 Emblematic of the great creative power of JC our savior and heavenly father, this project - a play-on-words - was created to utilize the generative adversarial network to forge an image of prophetic faces that resemble the almighty power and spiritual embodiment. 
