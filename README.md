@@ -3,14 +3,19 @@
 According to the Prophet Joseph Smith from the LDS (or the Church of Jesus Christ of Later Day Saints), angel moroni was the guardian of the golden plates buried near his home in western New York, 
 which Latter Day Saints believe were the source of the Book of Mormon. An important figure in the theology of the Latter Day Saint movement, Moroni is featured prominently in its architecture and art.
 
+# Project Title
+
+## Rotate Screen on Smaller Devices
+
+To rotate the screen 90 degrees on smaller devices, add the following HTML and CSS to your project.
+
+### HTML
+
+Include this meta tag in the `<head>` of your HTML document:
+
 ```html
-<style>
-  @media only screen and (max-width: 768px) {
-    img {
-      transform: rotate(90deg)!important;
-    }
-  }
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 ```
 
 <p align="center">
