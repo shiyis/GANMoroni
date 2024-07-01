@@ -5,7 +5,7 @@ which Latter Day Saints believe were the source of the Book of Mormon. An import
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG" style="width: 70%; height: auto; transform: rotate(0deg);">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG" style="width: 70%; height: auto; transform: rotate(90deg); align: center;">
 
 <style>
   @media only screen and (max-width: 768px) {
