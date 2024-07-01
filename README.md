@@ -13,13 +13,9 @@ To rotate the screen 90 degrees on smaller devices, add the following HTML and C
 
 Include this meta tag in the `<head>` of your HTML document:
 
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-```
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG" style="width: 70%; height: auto; transform: rotate(90deg);" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG" style="width: 70%; height: auto; transform: rotate(45deg);" align="center">
 </p>
 
 
