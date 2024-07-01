@@ -4,18 +4,8 @@ According to the Prophet Joseph Smith from the LDS (or the Church of Jesus Chris
 which Latter Day Saints believe were the source of the Book of Mormon. An important figure in the theology of the Latter Day Saint movement, Moroni is featured prominently in its architecture and art.
 
 # Project Title
-
-## Rotate Screen on Smaller Devices
-
-To rotate the screen 90 degrees on smaller devices, add the following HTML and CSS to your project.
-
-### HTML
-
-Include this meta tag in the `<head>` of your HTML document:
-
-
 <p align="center">
-  <img src="https://assets.ldscdn.org/2d/78/2d780c729f9929ee37f324ed9485b3afeee6b531/angel_moroni_statue.jpeg" style="width: 70%; height: auto; transform: rotate(45deg);" align="center">
+  <img src="https://assets.ldscdn.org/2d/78/2d780c729f9929ee37f324ed9485b3afeee6b531/angel_moroni_statue.jpeg" style="width: 100%; height: auto; transform: rotate(45deg);" align="center">
 </p>
 
 
