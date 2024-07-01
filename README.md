@@ -24,17 +24,12 @@ which Latter Day Saints believe were the source of the Book of Mormon. An import
 </head>
 <body>
 
-![Your Image](https://your-image-url.com/image.jpg)
-
-<img src="https://your-image-url.com/image.jpg" class="rotate-90" alt="Rotated Image">
-
-</body>
-</html>
-
-
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG" class="rotate-90" alt="Image description" width="500" height="auto">
 </p>
+
+</body>
+</html>
 
 ## The Project Incentive
 
