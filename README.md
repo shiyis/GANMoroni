@@ -15,7 +15,7 @@ Include this meta tag in the `<head>` of your HTML document:
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MORONI2.JPG" style="width: 70%; height: auto; transform: rotate(45deg);" align="center">
+  <img src="https://assets.ldscdn.org/2d/78/2d780c729f9929ee37f324ed9485b3afeee6b531/angel_moroni_statue.jpeg" style="width: 70%; height: auto; transform: rotate(45deg);" align="center">
 </p>
 
 
