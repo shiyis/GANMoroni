@@ -11,6 +11,7 @@ which Latter Day Saints believe were the source of the Book of Mormon. An import
   @media only screen and (max-width: 768px) {
     img {
       transform: rotate(90deg)!important;
+      text-align: center!important;
     }
   }
 </style>
